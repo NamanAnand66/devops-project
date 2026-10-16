@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+node_modules/
+dist/
+target/
+*.log
+.env
+test.db
+.terraform/
+*.tfstate
+*.tfstate.*

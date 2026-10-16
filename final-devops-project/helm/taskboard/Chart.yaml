@@ -1,0 +1,14 @@
+apiVersion: v2
+name: taskboard
+description: TaskBoard (FastAPI + React + PostgreSQL) - Session 21 DevOps capstone
+type: application
+version: 1.1.0          # chart version (bump on every chart change)
+appVersion: "1.0.0"     # default application image tag
+kubeVersion: ">=1.25.0-0"
+keywords: [taskboard, fastapi, react, postgresql, devops]
+home: https://github.com/NamanAnand66/devops-project.git
+sources:
+  - https://github.com/NamanAnand66/devops-project.git
+maintainers:
+  - name: Naman Anand
+    email: naman.24bcs10417@sst.scaler.com
